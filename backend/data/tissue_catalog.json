@@ -1,0 +1,1 @@
+{"tissues":[{"tissue_id":"cartilage","name":"Cartilage","candidate_cells":["primary_chondrocyte","msc"]},{"tissue_id":"dental_pulp","name":"Dental pulp","candidate_cells":["dpsc"]},{"tissue_id":"bone","name":"Bone","candidate_cells":["msc"]}]}
